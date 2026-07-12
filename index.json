@@ -1,0 +1,494 @@
+{
+  "library": "FreePats Jaw Harp",
+  "description": "Jaw harp from freepats.zenvoid.org",
+  "license": "CC0-1.0",
+  "author": "freepats.zenvoid.org",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/freepats-jawharp",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/freepats-jawharp-previews",
+  "branch": "master",
+  "fileCount": 48,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/",
+  "files": [
+    {
+      "file": "jaw_harp1.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp1.mp3",
+      "size": 28882,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp10.mp3",
+      "size": 28882,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp11.mp3",
+      "size": 28882,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp12.mp3",
+      "size": 28882,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp13.mp3",
+      "size": 18015,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp14.mp3",
+      "size": 18015,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp15.mp3",
+      "size": 28882,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp16.mp3",
+      "size": 28882,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp17.mp3",
+      "size": 22194,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp18.mp3",
+      "size": 23448,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp19.mp3",
+      "size": 22194,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp2.mp3",
+      "size": 22194,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp20.mp3",
+      "size": 33061,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp21.mp3",
+      "size": 33061,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp22.mp3",
+      "size": 28882,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp23.mp3",
+      "size": 33061,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp24.mp3",
+      "size": 33061,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp25.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp26.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp26.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp27.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp27.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp28.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp28.mp3",
+      "size": 29718,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp29.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp29.mp3",
+      "size": 29718,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp3.mp3",
+      "size": 29718,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp30.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp30.mp3",
+      "size": 29718,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp31.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp31.mp3",
+      "size": 6730,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp32.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp32.mp3",
+      "size": 33061,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp33.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp33.mp3",
+      "size": 5894,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp34.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp34.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp35.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp35.mp3",
+      "size": 5894,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp36.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp36.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp37.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp37.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp38.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp38.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp39.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp39.mp3",
+      "size": 5894,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp4.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp40.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp40.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp41.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp41.mp3",
+      "size": 5894,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp42.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp42.mp3",
+      "size": 7566,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp43.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp43.mp3",
+      "size": 4222,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp44.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp44.mp3",
+      "size": 5894,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp45.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp45.mp3",
+      "size": 28464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp46.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp46.mp3",
+      "size": 2550,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp47.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp47.mp3",
+      "size": 7566,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp48.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp48.mp3",
+      "size": 10910,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp5.mp3",
+      "size": 25120,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp6.mp3",
+      "size": 26792,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp7.mp3",
+      "size": 26792,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp8.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp8.mp3",
+      "size": 10910,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "jaw_harp9.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-jawharp-previews/master/jaw_harp9.mp3",
+      "size": 10910,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {}
+}
